@@ -41,3 +41,10 @@
 1. `git log` ➡️ Shows a chronological commit history for the current branch.
 2. `git revert <commit>` ➡️ Creates a new commit that undoes all of the changes made in `<commit>`, then apply it to the current branch.
 3. `git reset --hard` ➡️ Discards all history and changes back to the specified commit.
+
+<br/>
+<br/>
+
+## Contributing
+
+This guide is intended to help beginners get started with Git and GitHub. If you have suggestions for improvements or additions that could make this guide more useful for beginners, please feel free to raise an issue or submit a pull request. Your contributions are welcome and appreciated!
