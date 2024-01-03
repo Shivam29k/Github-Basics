@@ -4,9 +4,10 @@
 ### 🚀 Create a New Repo in Github account
 1. copy the URL of the repo
 ### 📁 Create a git Folder
-2. `git init` ➡️ Initializing git in the folder
-3. `git remote set-url origin <URL of remote Repo>` ➡️ Setting up remote url
-- `git remote -v` ➡️ You can see the git and push as the URL of your remote repo in your github Account
+2. `git init` - Initializes git in the folder.
+3. `git branch -M main` - Renames the current branch to "main".
+4. `git remote set-url origin <URL of remote Repo>` - Sets up remote url.
+5. `git remote -v` - You can see the git and push as the URL of your remote repo in your github Account.
 
 ### Now your local folder will get linked to your repo in your github account
 
